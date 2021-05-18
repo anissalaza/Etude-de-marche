@@ -14,7 +14,7 @@ Ce projet nous a permis de manipuler des données en _Python_, et d'appliquer de
   * PowerPoint
 Le script pourra ainsi être ouvert grâce à Jupyter ou JupyterLab, au choix. 
 
-Le projet intituté "_Etude de marché_" est composé d'un script contenant l'[étude de marché](https://github.com/anissalaza/Etude-de-marche/blob/main/Etude%20de%20marché.ipynb). Des [dendrogrammes](https://github.com/anissalaza/Etude-de-marche/tree/main/Dendrogrammes) ainsi que des fichiers csv : le [premier](https://github.com/anissalaza/Etude-de-marche/tree/main/Listes%20des%20pays) contient la liste des pays ainsi que (pour chacun d'entre eux) leur groupe qui a été déterminé après avoir découpé le dendrogramme, et le [second](https://github.com/anissalaza/Etude-de-marche/tree/main/Centroïdes%20des%20pays), lui, contient les centroïdes des groupes et leurs coordonnées dans chacune des dimensions. Les résultats ont été présentés lors d'une [soutenance](https://github.com/anissalaza/Etude-de-marche/blob/main/Présentation.pdf) évaluée par un examinateur.
+Le projet intituté "_Etude de marché_" est composé d'un script contenant l'[étude de marché](https://github.com/anissalaza/Etude-de-marche/blob/main/Etude%20de%20marche.ipynb). Des [dendrogrammes](https://github.com/anissalaza/Etude-de-marche/tree/main/Dendrogrammes) ainsi que des fichiers csv : le [premier](https://github.com/anissalaza/Etude-de-marche/tree/main/Listes%20des%20pays) contient la liste des pays ainsi que (pour chacun d'entre eux) leur groupe qui a été déterminé après avoir découpé le dendrogramme, et le [second](https://github.com/anissalaza/Etude-de-marche/tree/main/Centroïdes%20des%20pays), lui, contient les centroïdes des groupes et leurs coordonnées dans chacune des dimensions. Les résultats ont été présentés lors d'une [soutenance](https://github.com/anissalaza/Etude-de-marche/blob/main/Présentation.pdf) évaluée par un examinateur.
 
 ------------------------------------------------
 
@@ -28,6 +28,9 @@ Ce dossier contient les fichiers produits lors de l'étude de marché, à savoir
 
 #### *Centroïdes des pays*
 Ce dossier contient les fichiers produits lors de l'étude de marché, à savoir les centroides des groupes et leurs coordonnées.
+
+#### *Cartes*
+Ce dossier contient les représentations graphiques (cartes du monde) des clusters déterminés. 
 
 #### *Dendrogrammes*
 Ce dossier contient tous les dendrogrammes générés lors de l'analyse des données.
